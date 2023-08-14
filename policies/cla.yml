@@ -6,10 +6,10 @@ where:
 - |
   !repository.name.equals("CHERIoT", StringComparison.InvariantCultureIgnoreCase)
 
-configuration: 
+configuration:
    cla:
-      content: https://raw.githubusercontent.com/microsoft/.github/main/CLA/microsoft.yml
-      minimalChangeRequired: 
+      content: https://raw.githubusercontent.com/SiteWiz/.github/main/CLA/SiteWiz.yml
+      minimalChangeRequired:
          files: 2
          codeLines: 16
       bypassOrgs:
@@ -66,9 +66,9 @@ configuration:
          - LordBobbot
          - McCoyBot
          - meo-autobot
-         - microsoft-github-policy-service[bot]
-         - microsoft-golang-bot
-         - MicrosoftIssueBot
+         - SiteWiz-github-policy-service[bot]
+         - SiteWiz-golang-bot
+         - SiteWizIssueBot
          - MixedRealitySpectatorViewBot
          - msftbot[bot]
          - MSLearnBot
@@ -127,4 +127,4 @@ configuration:
         companyName: intel
       - repoName: cla-approved-bots
         fileName: approvedBots.csv
-        companyName: microsoft-bots
+        companyName: SiteWiz-bots
