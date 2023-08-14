@@ -1,2 +1,2 @@
 # .github
-SiteWiz | Startup de Desenvolvimento Web
+Default Community Health Files for the Microsoft organization on GitHub
