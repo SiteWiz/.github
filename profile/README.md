@@ -1,10 +1,10 @@
-![SiteWiz StartUP](https://github.com/SiteWiz/.github/blob/main/images/sitewiz.png)
+![SiteWiz](https://github.com/SiteWiz/.github/blob/main/images/sitewiz.png)
 
 
 Aqui você encontrará informações sobre nossa empresa, especializada no desenvolvimento de websites e webapps de alto desempenho.
 
 ## Sobre a Sitewiz
-A SiteWiz é uma startUP formada por desenvolvedores altamente qualificados e designers criativos, que trabalham de perto com nossos clientes para criar experiências online envolventes e funcionais. Nossa missão é criar soluções digitais que não apenas atendam, mas superem as expectativas de nossos clientes.
+A SiteWiz é uma agência 100% online, composta por uma equipe de desenvolvedores altamente qualificados e designers excepcionalmente criativos. Nosso comprometimento é trabalhar lado a lado com nossos clientes, compreendendo suas necessidades individuais para criar experiências online que são tanto cativantes quanto funcionais. A nossa missão vai além de atender às expectativas; nos dedicamos a superá-las, oferecendo soluções digitais personalizadas que definem um novo padrão de excelência no mundo digital.
 
 ## Serviços
 CRIATIVOS E SOB MEDIDA!
