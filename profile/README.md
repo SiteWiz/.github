@@ -9,15 +9,16 @@ A SiteWiz é uma agência 100% online, composta por uma equipe de desenvolvedore
 ## Serviços
 CRIATIVOS E SOB MEDIDA!
 
-* [Criação de WebSites](https://sitewiz.com.br/#servicos)
-* [Desenvolvimento de WebApps](https://sitewiz.com.br/#servicos)
-* [Design UI/UX](https://sitewiz.com.br/#servicos)
-* [Configuração de E-commerces](https://sitewiz.com.br/#servicos)
-* [Otimização SEO](https://sitewiz.com.br/#servicos)
-* [Integração de Mídias Sociais](https://sitewiz.com.br/#servicos)
-* [Desenvolvimento de sistemas complexos](https://sitewiz.com.br/#servicos)
-* [Otimização e Manutenção de códigos](https://sitewiz.com.br/#servicos)
-* [Hospedagem de sites de clientes](https://sitewiz.com.br/#servicos)
+- Criação de WebSites
+- Desenvolvimento de WebApps
+- Design UI/UX
+- Configuração de E-commerces
+- Otimização SEO
+- Integração de Mídias Sociais
+- Desenvolvimento de sistemas complexos
+- Otimização e Manutenção de códigos
+- Hospedagem de sites de clientes
+- Administração e Manutenção de servidores
 
 ## Portfolio
 Projetos web que nos enchem de orgulho.
