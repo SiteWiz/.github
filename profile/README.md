@@ -7,7 +7,7 @@ Aqui você encontrará informações sobre nossa empresa, especializada no desen
 A SiteWiz é uma agência 100% online, composta por uma equipe de desenvolvedores altamente qualificados e designers excepcionalmente criativos. Nosso comprometimento é trabalhar lado a lado com nossos clientes, compreendendo suas necessidades individuais para criar experiências online que são tanto cativantes quanto funcionais. A nossa missão vai além de atender às expectativas; nos dedicamos a superá-las, oferecendo soluções digitais personalizadas que definem um novo padrão de excelência no mundo digital.
 
 ## Serviços
-CRIATIVOS E SOB MEDIDA!
+Criativos e sob medida!
 
 - Criação de WebSites
 - Desenvolvimento de WebApps
